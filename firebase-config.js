@@ -6,10 +6,10 @@
 // Your data is protected by the Firestore security rules (firestore.rules).
 
 export const firebaseConfig = {
-  apiKey: "PASTE_API_KEY",
-  authDomain: "PASTE_PROJECT_ID.firebaseapp.com",
-  projectId: "PASTE_PROJECT_ID",
-  storageBucket: "PASTE_PROJECT_ID.appspot.com",
-  messagingSenderId: "PASTE_SENDER_ID",
-  appId: "PASTE_APP_ID"
+  apiKey: "AIzaSy...your key...",
+  authDomain: "deadline-desk-6a193.firebaseapp.com",
+  projectId: "deadline-desk-6a193",
+  storageBucket: "deadline-desk-6a193.firebasestorage.app",
+  messagingSenderId: "439504290416",
+  appId: "1:439504290416:web:a759daff94d4353ba66ab5"
 };
