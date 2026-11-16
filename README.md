@@ -10,7 +10,7 @@ It's a plain HTML/CSS/JS site with no build step. Hosting costs nothing: Vercel'
 
 1. Go to https://github.com/new and create a repo (for example `deadline-desk`). Leave "Add a README" unchecked.
 2. On the new repo page, click **uploading an existing file**.
-3. Drag in all the files from this folder: `index.html`, `style.css`, `app.js`, `firebase-config.js`, `firestore.rules`, `README.md`.
+3. Drag in everything from this folder, including the `icons` folder.
 4. Click **Commit changes**.
 
 ## 2. Set up Firebase (free, takes about 10 minutes)
@@ -46,6 +46,18 @@ From now on, every commit to GitHub redeploys the site automatically.
   - **Google Calendar:** on a computer, go to Settings → Import & export → Import, then choose the file. Note: Google Calendar ignores reminders inside imported files and uses your default notifications instead.
 - Each event uses the deadline's title, course, due time, location and notes.
 - If you export again later, some calendar apps may add duplicate copies of events you already imported.
+
+## Install as an app
+
+Deadline Desk can be installed like a regular app, with its own icon and a full-screen window:
+- **Android / Chrome / Edge:** use the **Install** button in the app, or the install icon in the address bar.
+- **iPhone / iPad:** open the site in Safari, tap **Share**, then **Add to Home Screen**.
+
+## Keyboard shortcuts
+
+- `N`: add a deadline
+- `/`: search
+- `Esc`: close dialogs and menus
 
 ## No Firebase?
 
