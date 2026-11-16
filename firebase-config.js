@@ -6,7 +6,7 @@
 // Your data is protected by the Firestore security rules (firestore.rules).
 
 export const firebaseConfig = {
-  apiKey: "AIzaSy...your key...",
+  apiKey: "AIzaSyDh73WObMq8N9bbL8oyrB3We0fXoGletGg",
   authDomain: "deadline-desk-6a193.firebaseapp.com",
   projectId: "deadline-desk-6a193",
   storageBucket: "deadline-desk-6a193.firebasestorage.app",
